@@ -28,20 +28,11 @@ Here are some ideas to get you started:
 
 ### 
   
-I'm a data scientist currently working for Audax Group, where I lead the corporate finance function (FP & A). For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
+For the projects I've worked on until today, I've mostly used Python, R, SQL, Bash and a variety of other tools.
 Feel free to take a look at my repo and see what I have worked on so far; much more to come!  
   
 
 <br/>  
-
-🌱 I’m a graduate student for a Data Science (MIDS) degree at UC Berkeley  
-
-
-🔭 I’m currently working on my capstone project (210)
-  
-
-🎵 I currently work for Audax Group as a Manager of FP&A (Corporate Finance)
-  
 
 ❓ Ask me about anything related to private markets, data science, and what's in between  
   
